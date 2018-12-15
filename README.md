@@ -1,32 +1,25 @@
-﻿# Protocol
+﻿# [communication](https://github.com/Qitas/communication) 
 
-### 简介
+### qitas@qitas.cn
 
-嵌入式开发过程中有用的协议
+### [简介](https://github.com/Qitas/communication/wiki)
 
----
+communication 通信算法库
 
-## 组成
 
-####  qitas
+## [构成](qitas/)
 
-包括各种文档资源
 
-####  modbus
+####  [JSON](JSON/)
 
-modbus的相关协议
+JSON相关
 
-####  lwm2m
+####  [LWIP](LWIP/)
 
-lwm2m的相关协议
-
-####  SHA
-
-安全及数据完整性校验
-
+LWIP相关
 
 ---
 
-## 为锻造最美之器
+### 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
