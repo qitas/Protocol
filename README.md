@@ -1,8 +1,8 @@
-﻿# [Protocol](https://github.com/Qitas/protocol) 
+﻿# [通信协议](https://github.com/Qitas/Protocol) 
 
 #### qitas@qitas.cn
 
-### [简介](https://github.com/Qitas/protocol/wiki)
+### [简介](https://github.com/Qitas/Protocol/wiki)
 
 通信协议是指双方实体完成通信或服务所必须遵循的规则和约定。
 
@@ -33,13 +33,6 @@
 - [PCI-E](https://github.com/Qitas/PCI-E)
 - [ethernet](https://github.com/Qitas/ethernet)
 - [Intelaken](https://github.com/Qitas/Intelaken)
-
-### [关联项目](https://github.com/qitas/protocol) 
-
-- [drivers驱动](https://github.com/qitas/drivers) 
-- [algorithm算法](https://github.com/Qitas/algorithm) 
-- [mAIn构建编译](https://github.com/Qitas/mAIn) 
-- [software上位软件](https://github.com/Qitas/software) 
 
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
